@@ -1,0 +1,32 @@
+.drum {
+    font-size: 30px;
+    width: 70px;
+    line-height: 70px;
+    align-content: flex-end;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#title {
+    text-align: center;
+    font-size: 100px;
+}
+
+body {
+    background-color: yellow;
+}
+
+.w {
+    background-image: url(/backend/dice/dice1.png);
+}
+
+.pressed {
+    opacity: 0.5;
+    color: black;
+}
